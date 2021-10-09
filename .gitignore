@@ -1,3 +1,8 @@
+package-lock.json
+yarn.lock
+yarn.log
+yarn.error
+
 # Logs
 logs
 *.log
